@@ -1,5 +1,5 @@
 # Solar-eCNH-RWA
-Solar-eCNH-RWA2026 vn,越南800000㎡厂房屋顶光伏电站方案 结合eCNH RWA模式的创新探索  探索工业厂房分布式光伏电站与离岸人民币真实世界资产的创新结合.
+Solar-eCNH-RWA2026 vn,越南800000㎡厂房屋顶光伏电站方案,结合eCNH RWA模式的创新探索, 探索工业厂房分布式光伏电站与华夏币(离岸人民币代币eCNH)真实世界资产的创新结合.
 
 <img width="1288" height="668" alt="越南800000㎡厂房屋顶光伏电站方案202602 0ee5b7432b8cda9f07e8cca644a5bd81" src="https://github.com/user-attachments/assets/7152c742-9f73-4bf8-a3dc-62923003fa53" />
 
